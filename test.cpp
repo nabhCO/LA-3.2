@@ -6,6 +6,8 @@
 /*File containing test cases for implemented functions in functions_to_implement, LA 3.2
 nabh6611*/
 
+/*comment added to trigger workflow*/
+
 TEST_CASE ( "Removing all substring instances", "[remove_all_substrings]") {
 	
 	REQUIRE( RemoveAllSubstrings("apple", "") == "apple" );
